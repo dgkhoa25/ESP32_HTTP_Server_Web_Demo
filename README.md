@@ -5,8 +5,8 @@ This project shows how to use the Wi-Fi Station functionality of the Wi-Fi drive
 ### Configure the project
 
 * Set the Wi-Fi configuration.
-  #define EXAMPLE_ESP_WIFI_SSID      "yourSSID"
-  #define EXAMPLE_ESP_WIFI_PASS      "yourPassword"
+  * #define EXAMPLE_ESP_WIFI_SSID      "yourSSID"
+  * #define EXAMPLE_ESP_WIFI_PASS      "yourPassword"
 
 ### Build and Flash
 
